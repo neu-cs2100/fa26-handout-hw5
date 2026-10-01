@@ -1,0 +1,13 @@
+"""HW5 Question 5
+
+Please write a function flatten() that takes a 2D list of ints and returns a single 1D
+list containing all the values.
+
+flatten() should take only one argument: a 2D list of ints.
+It should return a new list containing all the values from the 2D list, in order.
+It should not modify the original 2D list.
+
+Example usage:
+flatten([[1, 2, 3], [4, 5, 6]])  # [1, 2, 3, 4, 5, 6]
+flatten([[1, 2], [], [], [3]])       # [1, 2, 3]
+"""

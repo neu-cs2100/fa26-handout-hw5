@@ -1,4 +1,4 @@
-"""HW5 Question 5
+"""HW5 Question 5: Using list comprehension to build a list
 
 Please write a function flatten() that takes a 2D list of ints and returns a single 1D
 list containing all the values.

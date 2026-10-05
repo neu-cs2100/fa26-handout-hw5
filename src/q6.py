@@ -1,4 +1,4 @@
-"""HW5 Question 6
+"""HW5 Question 6: Using list comprehension, but not to build a list
 
 Please write a function sum_2d() that takes a 2D list of ints and returns the sum of 
 all the ints in the list.

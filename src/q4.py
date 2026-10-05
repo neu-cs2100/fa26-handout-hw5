@@ -1,4 +1,4 @@
-"""HW5 Question 4
+"""HW5 Question 4: Slicing strings
 
 Please write a function remove_middle() that returns a version of the passed string with the 
 characters between two given indices removed.

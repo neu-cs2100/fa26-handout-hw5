@@ -1,4 +1,4 @@
-"""HW5 Question 2
+"""HW5 Question 2: Slicing a list
 
 Please read the provided Building class below.
 

@@ -1,4 +1,4 @@
-"""HW5 Question 3
+"""HW5 Question 3: Modifying a 2D list
 
 Please write a function append_to_each_row() that appends a given value to the end of 
 every row in a 2D list.

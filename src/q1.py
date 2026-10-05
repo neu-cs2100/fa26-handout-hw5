@@ -1,4 +1,4 @@
-"""HW5 Question 1
+"""HW5 Question 1: Using split() and join()
 
 Please write a function called replace_word() that takes a sentence and returns a version of 
 the sentence with all occurrences of specified words replaced with new specified words.

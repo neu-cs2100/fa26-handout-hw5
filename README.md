@@ -7,11 +7,9 @@
 In this homework assignment, you will practice:
 
 - Using the `split()` and `join()` functions
-- Slicing a list, using negative indeces
-- Appending and inserting into an existing 2D list
-- String manipulation using slicing
-- Using list comprehension to build a list
-- Using list comprehension, but not to build a list
+- Manipulating lists
+- Manipulating strings
+- Using list comprehension
 
 You can find the instructions for each question in the corresponding files in the `src` directory. The corresponding tests are in the `tests` directory.
 

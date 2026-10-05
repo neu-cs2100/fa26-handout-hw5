@@ -4,8 +4,8 @@ Please write a function append_to_each_row() that appends a given value to the e
 every row in a 2D list.
 
 append_to_each_row() should take two arguments:
-1. grid: list[list[int]] - The 2D list to be modified in place
-2. value: int - The value to append to the end of each row of the 2D list
+1. The 2D list of ints to be modified in place
+2. The int value to append to the end of each row of the 2D list
 
 It should modify the 2D list in place, rather than returning a new list.
 
